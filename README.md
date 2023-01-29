@@ -17,3 +17,10 @@ this small project to:
 
 - Practice and showcase my version control and repository management skills
 
+# Project description
+
+The project context is inspired by the project's description in the DIT356: Ditstributed Systems Development course at the University of Gothenburg.
+
+This project is an API for a dentist appointment system. The entities of the system are Clinic, Dentist and Patient. Their interaction can be seen in the following ER diagram:
+
+![EER Diagram](./assets/java-api-EER.drawio.png)
